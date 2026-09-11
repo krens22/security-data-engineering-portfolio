@@ -1,4 +1,3 @@
-# security-data-engineering-portfolio
 # Security Data Engineering & Threat Analytics Portfolio
 
 Hi, I'm **Karen**, a **Security Data Engineer** based in Canada. 🇨🇦  
